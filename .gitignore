@@ -1,0 +1,7 @@
+.pio/
+include/web_assets.h
+release/
+__pycache__/
+*.pyc
+*.log
+publish-manifest.json
